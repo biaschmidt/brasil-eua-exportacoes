@@ -1,9 +1,3 @@
-"""
-fetch_comex_br_us.py
-Script example to fetch Brazil -> United States exports by HS2 (chapter) from ComexStat API
-Save output as `export_br_us_by_chapter.csv`.
-"""
-
 import requests
 import pandas as pd
 import time
