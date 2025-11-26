@@ -4,6 +4,7 @@ Este repositório apresenta uma análise dos produtos mais exportados pelo Brasi
 
 ## Conteúdo do repositório
 - `comex_br_eua.py`: notebook com análise exploratória, gráficos e interpretação econômica.
+- `reqirements.txt`
 
 ## Objetivo
 Demonstrar, de maneira clara e acessível, como evoluíram os principais grupos de produtos exportados pelo Brasil para os EUA, destacando tendências estruturais e mudanças na composição da pauta ao longo do tempo.
