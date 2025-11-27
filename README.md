@@ -1,4 +1,4 @@
-# Exportações do Brasil para os Estados Unidos — Análise via API do ComexStat
+# Exportações do Brasil para os Estados Unidos
 
 Este repositório apresenta uma análise dos produtos mais exportados pelo Brasil para os Estados Unidos, utilizando dados obtidos diretamente da **API oficial do ComexStat**. O objetivo é demonstrar, de forma clara e aplicada, como acessar dados públicos de comércio exterior, tratá-los em Python e extrair insights relevantes sobre a pauta exportadora brasileira.
 
